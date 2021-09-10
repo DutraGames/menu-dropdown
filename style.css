@@ -51,30 +51,3 @@ cursor: pointer;
 .menu ul ul li a{
     display: block;
 }
-
-.btn_play{
-    border-radius: 100%;
-}
-
-.estrutura{
-    display: grid;
-    grid-template-columns: 1fr 3fr 1fr;
-}
-
-.objs{
-    border: 1px solid;
-}
-
-.layout{
-    border: 1px solid;
-}
-
-.layout canvas{
-    width: 100%;
-    height: 100%;
-    border: 1px solid;
-}
-
-.props{
-    border: 1px solid;
-}
